@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/8959ab62-39b5-4d81-b029-200b2f5ab089)
+<img src="https://github.com/user-attachments/assets/8959ab62-39b5-4d81-b029-200b2f5ab089" width=200>
 
 ## RESULT
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
